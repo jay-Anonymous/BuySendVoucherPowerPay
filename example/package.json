@@ -11,8 +11,8 @@
     "@expo/react-native-navigator": "0.5.1",
     "moment": "2.18.1",
     "react": "16.0.0-alpha.6",
-    "react-native": "0.43.4",
-    "react-native-gifted-form": "file:.."
+    "react-native": "0.69.12",
+    "react-native-gifted-form": "0.1.1"
   },
   "jest": {
     "preset": "jest-react-native"
