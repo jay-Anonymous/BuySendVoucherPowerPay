@@ -3022,8 +3022,10 @@ react-native-deprecated-custom-components@^0.1.0:
     react-timer-mixin "^0.13.2"
     rebound "^0.0.13"
 
-"react-native-gifted-form@file:..":
-  version "0.1.0"
+react-native-gifted-form@0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-gifted-form/-/react-native-gifted-form-0.1.1.tgz#766b9f6be7c9710981cd34f340597320a791e2c7"
+  integrity sha512-n+pyeu0wC01CA7T8KtaNxUMzihF7N+9W6/c72VXbggb98fGdo6kolOiFkjqzWCl0vrGwM6osUpwIBNqbFi5b4g==
   dependencies:
     apsl-react-native-button "^3.1.0"
     create-react-class "^15.6.2"
